@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tahaswx/hhh/refs/heads/main/epg.xml"
+#EXTM3U x-tvg-url="http://senin-gercek-linkin.com/epg.xml"
 #EXTINF:0 tvg-id="245943" CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="246030" CUID="2" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
@@ -173,10 +173,11 @@ http://139.162.182.79/live/test/index.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="86" tvg-name="Kral Pop TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png" group-title="Müzik",Kral Pop TV
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:0 CUID="82" tvg-name="Powertürk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Müzik",Powertürk TV
+#EXTINF:0 tvg-id="246111" CUID="82" tvg-name="Powertürk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Müzik",Powertürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 CUID="88" tvg-name="Powertürk Taptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v4" group-title="Müzik",Powertürk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:0 CUID="89" tvg-name="Powertürk Slow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v4" group-title="Müzik",Powertürk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0 CUID="90" tvg-name="Powertürk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" group-title
+#EXTINF:0 CUID="90" tvg-name="Powertürk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Müzik",Powertürk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
