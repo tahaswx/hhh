@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://orneklink.com/EPG.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tahaswx/hhh/refs/heads/main/epg.xml"
 #EXTINF:0 tvg-id="245943" CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="246030" CUID="2" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
