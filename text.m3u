@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://orneklink.com/EPG.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tahaswx/hhh/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-logo="https://i.hizliresim.com/30tyjw7.png" group-title="Ulusal Kanallar",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
