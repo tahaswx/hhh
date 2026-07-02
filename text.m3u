@@ -182,6 +182,13 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk Kanalları",test
 https://sc-u3-01.vix-content.net/hls/3/1/43/14390d7a-09ea-4140-b1df-d1507f91a5f8/audio/eng/0000-0100.ts?token=qekTj1K940W3Ojzu20wq8Q&expires=1787167250
+://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/30tyjw7.png" group-title="Çocuk Kanalları",Baby TV
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 group-title="Çocuk Kanalları",test
+https://sc-u3-01.vix-content.net/hls/3/1/43/14390d7a-09ea-4140-b1df-d1507f91a5f8/audio/eng/0000-0100.ts?token=qekTj1K940W3Ojzu20wq8Q&expires=1787167250
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-id="246120" CUID="21" tvg-name="NTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/ntv-tr.png" group-title="Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
