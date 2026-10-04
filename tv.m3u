@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="360-tv" tvg-name="360 Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-360-tv.webp" group-title="Ulusal",360 Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/360tv.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv-360|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv.webp" group-title="Ulusal",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/atv.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=atv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="atv-avrupa" tvg-name="ATV Avrupa" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv-avrupa.webp" group-title="Ulusal",ATV Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/atvavrupa.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=atv-avrupa|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="az-tv" tvg-name="Az Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-az-tv.webp" group-title="Ulusal",Az Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/aztv.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=az-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="brt-1" tvg-name="BRT 1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-brt-1.webp" group-title="Ulusal",BRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/brt1.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=brt-1-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="brt-2" tvg-name="BRT 2" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-brt-2-1759270978.webp" group-title="Ulusal",BRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/brt2.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=brt-2-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="beyaz-tv" tvg-name="Beyaz Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-beyaz-tv.webp" group-title="Ulusal",Beyaz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/beyaztv.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=beyaz-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="cnbce" tvg-name="CNBC-e" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-cnbce.webp" group-title="Ulusal",CNBC-e
+https://www.youtube.com/channel/UCaO-M1dXacMwtyg0Pvovk4w/live
+#EXTINF:-1 tvg-id="dmax" tvg-name="DMax" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-dmax.webp" group-title="Ulusal",DMax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/dmax.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=d-max|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-7" tvg-name="Kanal 7" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-7.webp" group-title="Ulusal",Kanal 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/kanal7.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-7|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-b" tvg-name="Kanal B" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-b-1758997760.webp" group-title="Ulusal",Kanal B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanalb.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-b|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-d" tvg-name="Kanal D" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-d.webp" group-title="Ulusal",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/kanald.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-d|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kurtlar-vadisi" tvg-name="Kurtlar Vadisi" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-kurtlar-vadisi.webp" group-title="Ulusal",Kurtlar Vadisi
+https://www.youtube.com/channel/UCABzirZ6FyebIf8YSptKMwQ/live
+#EXTINF:-1 tvg-id="kibris-tv" tvg-name="Kıbrıs Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kibris-tv.webp" group-title="Ulusal",Kıbrıs Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kibristv.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kibris-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="meltem-tv" tvg-name="Meltem Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-meltem-tv.webp" group-title="Ulusal",Meltem Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/meltemtv.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=meltem-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="now-tv" tvg-name="Now Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-now-tv.webp" group-title="Ulusal",Now Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/foxtv.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=now-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="show-tv" tvg-name="Show Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-show-tv.webp" group-title="Ulusal",Show Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/showtv.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=show-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="star-tv" tvg-name="Star Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-star-tv.webp" group-title="Ulusal",Star Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/startv.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=star-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tlc-tv" tvg-name="TLC" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tlc-tv.webp" group-title="Ulusal",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/tlctv.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tlc-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-1-izle" tvg-name="TRT 1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-1.webp" group-title="Ulusal",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/trt1.m3u8?tkn=KAVgi0SOCBOQIQeAfRF0Mw&tms=1791162073&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-1|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-2" tvg-name="TRT 2" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-2.webp" group-title="Ulusal",TRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/trt2.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-2|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv-2020" tvg-name="TV 2020" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv-2020.webp" group-title="Ulusal",TV 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tv2020.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv-2020|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv5.webp" group-title="Ulusal",TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tv5.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv5|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ulusal-kanal" tvg-name="Ulusal Kanal" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ulusal-kanal.webp" group-title="Ulusal",Ulusal Kanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/ulusal.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ulusal-kanal|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="a2-tv" tvg-name="a2" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a2-tv-1758997687.webp" group-title="Ulusal",a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/a2tv.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=a2-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv4" tvg-name="tv4" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv4-1759086110.webp" group-title="Ulusal",tv4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tv4.m3u8?tkn=ufVIFNNjvWZLV6hU1V5spA&tms=1791161615&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv4|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv8" tvg-name="tv8" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv8.webp" group-title="Ulusal",tv8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/tv8.m3u8?tkn=5tS4H-b0xctKfwWRGUzNnQ&tms=1791162074&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv8|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ictimai-tv" tvg-name="İctimai Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ictimai-tv-1759186146.webp" group-title="Ulusal",İctimai Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/ictimaitv.m3u8?tkn=e1pAulSXuVH2yMwPFFS6ag&tms=1791162075&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ictimai-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="a-spor" tvg-name="A Spor" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-spor.webp" group-title="Spor",A Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/aspor.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=a-spor|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="bein-sports-haber" tvg-name="Bein Sports Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-bein-sports-haber.webp" group-title="Spor",Bein Sports Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/beinsporthaber.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=bein-sports-haber|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="cbc-sport" tvg-name="CBC Sport" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-cbc-sport.webp" group-title="Spor",CBC Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/cbcsport.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=cbc-sport|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ekol-sports" tvg-name="Ekol Sports" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekol-sports.webp" group-title="Spor",Ekol Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/ekolsports.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ekol-sports|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="f1-live" tvg-name="F1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-f1-live.webp" group-title="Spor",F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/idmantv.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=idman-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="fb-tv" tvg-name="FB Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-fb-tv.webp" group-title="Spor",FB Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/fbtv.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=fb-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="gs-tv-youtube" tvg-name="GS TV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gs-tv-youtube.webp" group-title="Spor",GS TV
+https://www.youtube.com/channel/UCxF6LAkMq2qRMkZontNrwfA/live
+#EXTINF:-1 tvg-id="ht-spor" tvg-name="HT Spor" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ht-spor-1759224565.webp" group-title="Spor",HT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/htspor.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ht-spor|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="socrates-dergi" tvg-name="Socrates Dergi" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-socrates-dergi.webp" group-title="Spor",Socrates Dergi
+https://www.youtube.com/channel/UCvgwLFmnppZoPVBQJwPaNsA/live
+#EXTINF:-1 tvg-id="sports-digitale" tvg-name="Sports Digitale" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-sports-digitale.webp" group-title="Spor",Sports Digitale
+https://www.youtube.com/channel/UCmEgRY1A2263UXrQhjDuU0Q/live
+#EXTINF:-1 tvg-id="sports-tv" tvg-name="Sports Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-sports-tv.webp" group-title="Spor",Sports Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-spor-izle" tvg-name="TRT Spor" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-spor.webp" group-title="Spor",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/trtspor.m3u8?tkn=ltA2kcluCX3MEibpNEiq4Q&tms=1791162076&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-spor|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-spor-yildiz" tvg-name="TRT Spor Yıldız" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-spor-yildiz.webp" group-title="Spor",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/trtspor2.m3u8?tkn=psfkR5z3JMygjYHuIr4crA&tms=1791161618&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-spor-2|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tivibu-spor" tvg-name="Tivibu Spor" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tivibu-spor-1760720286.webp" group-title="Spor",Tivibu Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tivibuspor.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tivibu-spor|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="bein-sports-arsiv" tvg-name="beIN SPORTS Arşiv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-bein-sports-arsiv-1763722147.webp" group-title="Spor",beIN SPORTS Arşiv
+https://www.youtube.com/channel/UCPe9vNjHF1kEExT5kHwc7aw/live
+#EXTINF:-1 tvg-id="idman-tv" tvg-name="İdman Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-idman-tv.webp" group-title="Spor",İdman Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/idmantv.m3u8?tkn=_SsKso0_ORssyCNDD4ac-Q&tms=1791161617&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=idman-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="24-tv" tvg-name="24 Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-24-tv.webp" group-title="Haber",24 Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/24tv.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-24|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="a-haber" tvg-name="A Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-haber.webp" group-title="Haber",A Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/ahaber.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=a-haber|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="a-news" tvg-name="A News" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-news.webp" group-title="Haber",A News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/anews.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=a-news|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="a-para" tvg-name="A Para" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-a-para.webp" group-title="Haber",A Para
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/apara.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=a-para|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="akit-tv" tvg-name="Akit Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-akit-tv.webp" group-title="Haber",Akit Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/akittv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=akit-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="benguturk-tv" tvg-name="Bengütürk Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-benguturk-tv.webp" group-title="Haber",Bengütürk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/benguturktv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=benguturk-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="bloomberg-ht" tvg-name="Bloomberg HT" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-bloomberg-ht-1758997887.webp" group-title="Haber",Bloomberg HT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/bloomberght.m3u8?tkn=P-ggGcoPq4rAzEeLRi4t2A&tms=1791161620&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=bloomberg-ht|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="cnn-turk" tvg-name="CNN Türk" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-cnn-turk.webp" group-title="Haber",CNN Türk
+https://www.youtube.com/watch?v=6N8_r2uwLEc
+#EXTINF:-1 tvg-id="ekoturk-tv" tvg-name="Ekotürk Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekoturk-tv-1760028220.webp" group-title="Haber",Ekotürk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/ekoturktv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ekoturk-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="flash-haber" tvg-name="Flash Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-flash-haber.webp" group-title="Haber",Flash Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/flashtv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=flash-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="gzt-tv" tvg-name="GZT Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gzt-tv.webp" group-title="Haber",GZT Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="haber-global" tvg-name="Haber Global" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-haber-global-1758997826.webp" group-title="Haber",Haber Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/haberglobal.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=haber-global|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="haberturk" tvg-name="Habertürk" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-haberturk.webp" group-title="Haber",Habertürk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/haberturk.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=haberturk-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="halk-tv" tvg-name="Halk Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-halk-tv.webp" group-title="Haber",Halk Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/halktv.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=halk-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="krt-tv" tvg-name="KRT Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-krt-tv.webp" group-title="Haber",KRT Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/krttv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=krt-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ntv.webp" group-title="Haber",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/ntv.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ntv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="sozcu-tv" tvg-name="Sözcü Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-sozcu-tv-1758827631.webp" group-title="Haber",Sözcü Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/sozcutv.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=sozcu-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tbmm-tv" tvg-name="TBMM Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tbmm-tv.webp" group-title="Haber",TBMM Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tele1" tvg-name="TELE1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tele1.webp" group-title="Haber",TELE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://nene.tv.vin/tele1.m3u8?tkn=NEfw5G5yct7WfZt1ExugnQ&tms=1791162077&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tele1-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tgrt-haber" tvg-name="TGRT Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tgrt-haber.webp" group-title="Haber",TGRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/tgrthaber.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tgrt-haber|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="th-turk-haber" tvg-name="TH Türk Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-th-turk-haber.webp" group-title="Haber",TH Türk Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-haber" tvg-name="TRT Haber" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-haber-1758829199.webp" group-title="Haber",TRT Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/trthaber.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-haber|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tvnet" tvg-name="TVNET" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tvnet.webp" group-title="Haber",TVNET
+https://www.youtube.com/watch?v=Z5bqy4gwEmc
+#EXTINF:-1 tvg-id="tv100" tvg-name="tv100" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv100.webp" group-title="Haber",tv100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/tv100.m3u8?tkn=gixbJx2LSveZH7MTMjexqw&tms=1791162078&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv100|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ulke-tv" tvg-name="Ülke Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ulke-tv.webp" group-title="Haber",Ülke Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/ulketv.m3u8?tkn=xyQT687KEMhjYLmGkyI2iA&tms=1791162079&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ulke-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-cartoon-network.webp" group-title="Çocuk",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://hatun.tv.vin/cartoon.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=cartoon-network|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="minika-go" tvg-name="Minika GO" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-minika-go.webp" group-title="Çocuk",Minika GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/minikago.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=minika-go|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="minika-cocuk" tvg-name="Minika Çocuk" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-minika-cocuk.webp" group-title="Çocuk",Minika Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://tuzcu.tv.vin/minikacocuk.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=minika-cocuk|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-cocuk" tvg-name="TRT Çocuk" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-cocuk.webp" group-title="Çocuk",TRT Çocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://sivrice.tv.vin/trtcocuk.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-cocuk|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="koy-tv" tvg-name="Köy Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-koy-tv.webp" group-title="Belgesel",Köy Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/koytv.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=koy-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tgrt-belgesel" tvg-name="TGRT Belgesel" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tgrt-belgesel.webp" group-title="Belgesel",TGRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tgrtbelgesel.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tgrt-belgesel|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-belgesel" tvg-name="TRT Belgesel" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-belgesel.webp" group-title="Belgesel",TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/trtbelgesel.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-belgesel|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ciftci-tv" tvg-name="Çiftçi Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ciftci-tv.webp" group-title="Belgesel",Çiftçi Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/ciftcitv.m3u8?tkn=80SNeZ7axX8V_cScLi0kcw&tms=1791162084&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ciftci-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="diyanet-tv" tvg-name="Diyanet Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-diyanet-tv.webp" group-title="Dini",Diyanet Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/trtdiyanet.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=diyanet-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="dost-tv" tvg-name="Dost Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-dost-tv-1761387928.webp" group-title="Dini",Dost Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/dosttv.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=dost-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="fm-tv" tvg-name="FM Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-fm-tv.webp" group-title="Dini",FM Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/fmtv.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=fm-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="gonca-tv" tvg-name="Gonca Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-gonca-tv.webp" group-title="Dini",Gonca Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/goncatv.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=gonca-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kudus-tv" tvg-name="Kudüs Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kudus-tv.webp" group-title="Dini",Kudüs Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kudustv.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kudus-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="lalegul-tv" tvg-name="Lalegül Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-lalegul-tv.webp" group-title="Dini",Lalegül Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/lalegultv.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=lalegul-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="on4-tv" tvg-name="On4 Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-on4-tv-1761425893.webp" group-title="Dini",On4 Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/on4tv.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=on4-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="rehber-tv" tvg-name="Rehber Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-rehber-tv.webp" group-title="Dini",Rehber Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/rehbertv.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=rehber-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="sat7-turk" tvg-name="SAT-7 Türk" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-sat7-turk.webp" group-title="Dini",SAT-7 Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/sat7turk.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=sat7-turk|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="semerkand-tv" tvg-name="Semerkand Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-semerkand-tv.webp" group-title="Dini",Semerkand Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/semerkandtv.m3u8?tkn=KACFODRWiAb0xdjkKFOwkg&tms=1791162080&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=semerkand-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="vav-tv" tvg-name="Vav Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-vav-tv-1762722069.webp" group-title="Dini",Vav Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://maden.tv.vin/vavtv.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=vav-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ekin-tv" tvg-name="Ekin Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ekin-tv.webp" group-title="Müzik",Ekin Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/ekintv.m3u8?tkn=80SNeZ7axX8V_cScLi0kcw&tms=1791162084&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ekin-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="trt-muzik" tvg-name="TRT Müzik" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-trt-muzik.webp" group-title="Müzik",TRT Müzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/trtmuzik.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=trt-muzik|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tempo-tv" tvg-name="Tempo Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tempo-tv-1761253252.webp" group-title="Müzik",Tempo Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tempotv.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tempo-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="ada-tv" tvg-name="Ada TV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-ada-tv.webp" group-title="Yerel",Ada TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/adatv.m3u8?tkn=80SNeZ7axX8V_cScLi0kcw&tms=1791162084&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=ada-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="brtv" tvg-name="BRTV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-brtv.webp" group-title="Yerel",BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/brtvkarabuk.m3u8?tkn=mKr8xKkvkTIdGng3_u_XGQ&tms=1791161625&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=brtv-karabuk|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="er-tv" tvg-name="ER Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-er-tv.webp" group-title="Yerel",ER Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/ertv.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=er-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="es-tv" tvg-name="ES Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-es-tv.webp" group-title="Yerel",ES Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/estv.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=es-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-23" tvg-name="Kanal 23" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-23.webp" group-title="Yerel",Kanal 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanal23.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-23|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-26" tvg-name="Kanal 26" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-26.webp" group-title="Yerel",Kanal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanal26.m3u8?tkn=Xcbrzg-hoLo4hNH40Iwpbg&tms=1791162082&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-26|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-3" tvg-name="Kanal 3" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-3.webp" group-title="Yerel",Kanal 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanal3.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-3|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-32" tvg-name="Kanal 32" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-32.webp" group-title="Yerel",Kanal 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanal32.m3u8?tkn=9RPwFmMlytywd7ELGAx-nQ&tms=1791162081&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-32|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kanal-v" tvg-name="Kanal V" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kanal-v.webp" group-title="Yerel",Kanal V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kanalv.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-v|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kocaeli-tv" tvg-name="Kocaeli TV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kocaeli-tv.webp" group-title="Yerel",Kocaeli TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kocaelitv.m3u8?tkn=mKr8xKkvkTIdGng3_u_XGQ&tms=1791161625&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kocaeli-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kon-tv" tvg-name="Kon Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kon-tv.webp" group-title="Yerel",Kon Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kontv.m3u8?tkn=Rd2_FpMNxtG2oYUOdyQqfw&tms=1791161657&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kon-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="kibris-genc-tv" tvg-name="Kıbrıs Genç TV" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-kibris-genc-tv.webp" group-title="Yerel",Kıbrıs Genç TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/kibrisgenctv.m3u8?tkn=80SNeZ7axX8V_cScLi0kcw&tms=1791162084&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kibris-genc-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="mavi-karadeniz-tv" tvg-name="Mavi Karadeniz Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-mavi-karadeniz-tv.webp" group-title="Yerel",Mavi Karadeniz Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/mavikaradeniz.m3u8?tkn=7YgItY7Lfn4QwuKa_ZdAhQ&tms=1791162083&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=mavi-kadeniz-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv-42" tvg-name="TV 42" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv-42.webp" group-title="Yerel",TV 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tv42.m3u8?tkn=Xcbrzg-hoLo4hNH40Iwpbg&tms=1791162082&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=kanal-42|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tek-rumeli-tv" tvg-name="Tek Rumeli Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tek-rumeli-tv.webp" group-title="Yerel",Tek Rumeli Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tekrumelitv.m3u8?tkn=Xcbrzg-hoLo4hNH40Iwpbg&tms=1791162082&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tek-rumeli-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-tv1.webp" group-title="Yerel",tv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/tv1.m3u8?tkn=Xcbrzg-hoLo4hNH40Iwpbg&tms=1791162082&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=tv1|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="cay-tv" tvg-name="Çay Tv" tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-cay-tv.webp" group-title="Yerel",Çay Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTVLCOPT:http-referer=https://tv.vin/
+https://cdn509.tv.vin/caytv.m3u8?tkn=Xcbrzg-hoLo4hNH40Iwpbg&tms=1791162082&hst=tv.vin&ip=78.161.99.14&utkn=e7787620677f6a0a1730d482700e326a&ch=cay-tv|referer=https://tv.vin/&User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.154 Safari/537.36
+#EXTINF:-1 tvg-id="343-digital" tvg-name="343 Digital" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-343-digital.webp" group-title="YouTube Canlı",343 Digital
+https://www.youtube.com/channel/UCV1O-37iLics-xzEKk7C87w/live
+#EXTINF:-1 tvg-id="bk-sports" tvg-name="BK Sports" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-bk-sports.webp" group-title="YouTube Canlı",BK Sports
+https://www.youtube.com/channel/UCgizYG4LeUQnwFMBQBwJWSQ/live
+#EXTINF:-1 tvg-id="cuneyt-ozdemir" tvg-name="Cüneyt Özdemir" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-cuneyt-ozdemir.webp" group-title="YouTube Canlı",Cüneyt Özdemir
+https://www.youtube.com/channel/UCkwHQ7DWv9aqEtvAOSO74dQ/live
+#EXTINF:-1 tvg-id="flu-tv" tvg-name="Flu Tv" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-flu-tv.webp" group-title="YouTube Canlı",Flu Tv
+https://www.youtube.com/channel/UC-xTvXTm-lrLWYk308-Km3A/live
+#EXTINF:-1 tvg-id="gulsah-film" tvg-name="Gülşah Film" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-gulsah-film.webp" group-title="YouTube Canlı",Gülşah Film
+https://www.youtube.com/channel/UCHumSHRFQ8skiHTY75sxytQ/live
+#EXTINF:-1 tvg-id="htalks" tvg-name="HTalks" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-htalks.webp" group-title="YouTube Canlı",HTalks
+https://www.youtube.com/channel/UCFr6uAPwrG040QAWDKY0nnA/live
+#EXTINF:-1 tvg-id="kontraspor" tvg-name="Kontraspor" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-kontraspor.webp" group-title="YouTube Canlı",Kontraspor
+https://www.youtube.com/channel/UCHjbBVD4yRI7vU-S9Pwpnkw/live
+#EXTINF:-1 tvg-id="kurtlar-vadisi-pusu" tvg-name="Kurtlar Vadisi Pusu" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-kurtlar-vadisi-pusu.webp" group-title="YouTube Canlı",Kurtlar Vadisi Pusu
+https://www.youtube.com/channel/UCz1UfNp9VFp9R1HEFn5PY5A/live
+#EXTINF:-1 tvg-id="libero-tv" tvg-name="Libero TV" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-libero-tv.webp" group-title="YouTube Canlı",Libero TV
+https://www.youtube.com/channel/UCrDBfmHBBftwDVx05HDXhiQ/live
+#EXTINF:-1 tvg-id="medyascope-tv" tvg-name="Medyascope TV" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-medyascope-tv.webp" group-title="YouTube Canlı",Medyascope TV
+https://www.youtube.com/channel/UCNCVuaQDvPrZ4oTKG90iqOA/live
+#EXTINF:-1 tvg-id="neo-spor" tvg-name="Neo Spor" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-neo-spor.webp" group-title="YouTube Canlı",Neo Spor
+https://www.youtube.com/channel/UC4zFh-UMghh8zzTiZMOYVRQ/live
+#EXTINF:-1 tvg-id="onlar-tv" tvg-name="Onlar Tv" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-onlar-t.webp" group-title="YouTube Canlı",Onlar Tv
+https://www.youtube.com/channel/UC8n7mdTh0PsepLg43FgXTyw/live
+#EXTINF:-1 tvg-id="serhat-akin" tvg-name="Serhat Akın" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-serhat-akin.webp" group-title="YouTube Canlı",Serhat Akın
+https://www.youtube.com/channel/UCQYPWxOCsligWKDsrwZrF9g/live
+#EXTINF:-1 tvg-id="sporcast" tvg-name="Sporcast" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-sporcast.webp" group-title="YouTube Canlı",Sporcast
+https://www.youtube.com/channel/UCjr2WQ5a20B5YyUY7qaa2sw/live
+#EXTINF:-1 tvg-id="tr724-tv" tvg-name="Tr724 TV" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-tr724-tv.webp" group-title="YouTube Canlı",Tr724 TV
+https://www.youtube.com/channel/UCqbCHJpfLyjajJZgJQHyBSw/live
+#EXTINF:-1 tvg-id="vole" tvg-name="Vole" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-vole.webp" group-title="YouTube Canlı",Vole
+https://www.youtube.com/channel/UCeCRRixprpBjNmzRWgLBiUA/live
+#EXTINF:-1 tvg-id="sporon" tvg-name="sporON" tvg-logo="https://tv.vin/imagest/trns-jpg-w200xh200-sporon.webp" group-title="YouTube Canlı",sporON
+https://www.youtube.com/channel/UCVWwZOY5XngMpjL0gi5IeUw/live
